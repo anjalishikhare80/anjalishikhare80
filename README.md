@@ -1,88 +1,123 @@
 
-<h1 align="center">Hi 👋, I'm Anjali Shikhare</h1>
+<div align="center">
 
-<h3 align="center">Python Full-Stack Developer | Core Java</h3>
+# Hi, I'm Anjali Shikhare 👋
 
-<p align="center">
-  Building practical web applications and learning new technologies.
-</p>
+### Python Full-Stack Developer | Core Java
+
+Building practical web applications with Python, Django, Flask and modern web technologies.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square)](https://anjalishikhare.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/anjali-shikhare)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292F?style=flat-square&logo=github)](https://github.com/anjalishikhare80)
+
+</div>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Final-year Computer Science Engineering student.
-- 💻 Interested in Python Full-Stack Development.
+- 🎓 Final-year B.Tech Computer Science Engineering student.
+- 💻 Focused on Python Full-Stack Development.
 - 🌱 Working with Django, Flask and REST APIs.
-- ☕ Familiar with Core Java and Object-Oriented Programming.
-- 🗄️ Interested in database management and backend development.
-- 🚀 Passionate about building real-world projects.
-- 📍 Based in Maharashtra, India.
+- ☕ Knowledge of Core Java and Object-Oriented Programming.
+- 🗄️ Experience working with SQL and relational databases.
+- 🚀 Interested in developing practical, real-world software solutions.
+- 📍 Maharashtra, India.
 
-### 🛠️ Technical Skills
+---
 
-**Programming Languages**
-- Python
-- Core Java
-- SQL
-- JavaScript
+## 🛠️ Technical Skills
 
-**Backend Development**
-- Django
-- Django REST Framework
-- Flask
-- REST APIs
+### Programming Languages
 
-**Frontend Development**
-- HTML5
-- CSS3
-- Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
 
-**Databases**
-- PostgreSQL
-- MySQL
-- SQLite
+### Backend Development
 
-**Tools**
-- Git
-- GitHub
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask" />
+</p>
 
-**Core Concepts**
-- Object-Oriented Programming
-- Data Structures
-- DBMS
+### Frontend Development
 
-### 🚀 Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
-**1. LocalBiz AI**
-- Multi-Tenant Business Management and Analytics Platform.
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**Core Concepts:** OOP, Data Structures, DBMS, REST APIs.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. LocalBiz AI
+**Multi-Tenant Business Management & Analytics Platform**
+
+- Developed a business management platform with role-based access.
+- Implemented inventory management, analytics and forecasting features.
 - Built using Django, Django REST Framework and PostgreSQL.
 
-**2. AgriVision**
-- Smart agriculture application for crop recommendation and yield prediction.
-- Built using Python, Flask and Machine Learning.
+### 2. AgriVision
+**Smart Agriculture & Crop Recommendation System**
 
-**3. EventHub**
-- Smart Event Planning and Management System.
-- Event registration, QR-based attendance and certificate generation.
+- Developed a machine-learning-based crop recommendation application.
+- Implemented crop prediction and yield estimation.
+- Built using Python, Flask, MySQL and Scikit-learn.
 
-[View My GitHub Repositories](https://github.com/anjalishikhare80?tab=repositories)
+### 3. EventHub
+**Smart Event Planning and Management System**
 
-### 🎓 Education
+- Developed event registration and management functionality.
+- Implemented QR-based attendance verification.
+- Added certificate generation and role-based access.
+
+[Explore My Repositories](https://github.com/anjalishikhare80?tab=repositories)
+
+---
+
+## 🎓 Education
 
 **B.Tech – Computer Science Engineering**
 
 SVERI's College of Engineering, Pandharpur
 
-### 🤝 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/anjali-shikhare
-- Portfolio: https://anjalishikhare.vercel.app
-- GitHub: https://github.com/anjalishikhare80
+2023 – Present
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anjali-shikhare">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://anjalishikhare.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome" />
+  </a>
+  <a href="https://github.com/anjalishikhare80">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
